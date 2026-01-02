@@ -8,3 +8,6 @@
 
 ```echo "conda activate multi-agent-deep-rag" >> ~/.zshrc```
 
+* Activate virtual environment for this project
+
+```conda activate multi-agent-deep-rag```
