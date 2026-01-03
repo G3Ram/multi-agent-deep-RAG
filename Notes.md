@@ -15,3 +15,8 @@
 * Activate basic utilities
 
 ```conda install jupyter notebook ipykernel```
+
+* Install requirements
+
+```pip install -r requirements.txt```
+
