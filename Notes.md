@@ -11,3 +11,7 @@
 * Activate virtual environment for this project
 
 ```conda activate multi-agent-deep-rag```
+
+* Activate basic utilities
+
+```conda install jupyter notebook ipykernel```
